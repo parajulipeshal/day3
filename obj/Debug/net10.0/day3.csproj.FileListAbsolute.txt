@@ -1,0 +1,14 @@
+/Users/peshalparajuli/Desktop/day3/bin/Debug/net10.0/day3
+/Users/peshalparajuli/Desktop/day3/bin/Debug/net10.0/day3.deps.json
+/Users/peshalparajuli/Desktop/day3/bin/Debug/net10.0/day3.runtimeconfig.json
+/Users/peshalparajuli/Desktop/day3/bin/Debug/net10.0/day3.dll
+/Users/peshalparajuli/Desktop/day3/bin/Debug/net10.0/day3.pdb
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.AssemblyInfoInputs.cache
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.AssemblyInfo.cs
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.csproj.CoreCompileInputs.cache
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.dll
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/refint/day3.dll
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.pdb
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/day3.genruntimeconfig.cache
+/Users/peshalparajuli/Desktop/day3/obj/Debug/net10.0/ref/day3.dll
